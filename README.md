@@ -1,0 +1,1 @@
+## myFirstReversedArray using for loop twice 
